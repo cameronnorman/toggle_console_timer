@@ -1,0 +1,8 @@
+API_TOKEN: 'YOUR_API_DIRECTORY'
+projects:
+  -
+    directory: "/project/directory/one"
+    toggl_project: "Project One"
+  -
+    directory: "/project/directory/two"
+    toggl_project: "Project two"
